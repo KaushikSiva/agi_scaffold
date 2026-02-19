@@ -6,6 +6,9 @@ image generation, video generation, audio generation, google search, avatar gene
 
 with a  planning agent.
 
+[![Demo Video](https://img.youtube.com/vi/gqGK6C6UTvc/maxresdefault.jpg)](https://youtu.be/gqGK6C6UTvc)
+
+
 ## What is included
 - Web UI at `/` with an agent prompt form.
 - Tools page at `/tools`.
